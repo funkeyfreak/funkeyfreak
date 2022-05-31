@@ -2,7 +2,7 @@
   <a alt="icon" href="https://jeffreyharmon.me">
     <img align="center" src="https://avatars.githubusercontent.com/u/5327214" width="96" />
   </a>
-  <h1>Hi there, The Name's Dalin!</h1>
+  <h1>Hi there, the name's Dalin!</h1>
   <h3>Technically, I am a wizzard 🧙🏾‍♂️</h3>
   
 </div>
