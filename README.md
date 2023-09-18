@@ -41,7 +41,7 @@ I will never put any less than 100% of myself into anything that I do; I will al
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=funkeyfreak&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
+  <img align="center" height="165" src="https://github-readme-stats-sigma-sand-33.vercel.app/api?username=funkeyfreak&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkeyfreak&layout=compact&langs_count=6&theme=dracula" />
