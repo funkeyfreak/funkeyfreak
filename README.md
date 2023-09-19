@@ -44,6 +44,6 @@ I will always put at least 100% of myself into anything I do; I will always stri
   <img align="center" height="165" src="https://github-readme-stats-funkeyfreak.vercel.app/api?username=funkeyfreak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-funkeyfreak.vercel.app/api/top-langs/?username=funkeyfreak&layout=compact&langs_count=6&theme=tokyonigh&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <img align="center" src="https://github-readme-stats-funkeyfreak.vercel.app/api/top-langs/?username=funkeyfreak&layout=compact&langs_count=6&theme=tokyonight&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
 </div>
